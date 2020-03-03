@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="16.748397">
+<testcase classname="Validate News Page elements" name="Validate News Page Elements" time="16.748397">
+<skipped><![CDATA[Given user is on News Page..................................................undefined
+When user verify page heading...............................................undefined
+When user verify all headings on the page...................................undefined
+Then user verify pagination.................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>

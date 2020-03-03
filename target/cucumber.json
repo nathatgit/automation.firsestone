@@ -1,0 +1,79 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 16748397332,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksFirestone.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Validate News Page Elements",
+        "description": "",
+        "id": "validate-news-page-elements;validate-news-page-elements",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user is on News Page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "user verify page heading",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user verify all headings on the page",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 8,
+            "name": "user verify pagination",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 3,
+            "name": "@NewsPage"
+          },
+          {
+            "line": 3,
+            "name": "@regression"
+          }
+        ]
+      }
+    ],
+    "name": "Validate News Page elements",
+    "description": "",
+    "id": "validate-news-page-elements",
+    "keyword": "Feature",
+    "uri": "04newsPage.feature"
+  }
+]
