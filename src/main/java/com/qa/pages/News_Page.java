@@ -55,20 +55,20 @@ public class News_Page extends TestBase {
 	}
 	
 	
-	public String getHeading1()
+	public boolean getHeading1()
 	{
 		
-		return heading1.getText();
+		return heading1.isDisplayed();
 	}
-	public String getHeading2()
+	public boolean getHeading2()
 	{
 		
-		return heading2.getText();
+		return heading2.isDisplayed();
 	}
-	public String getHeading3()
+	public boolean getHeading3()
 	{
 		
-		return heading3.getText();
+		return heading3.isDisplayed();
 	}
 	
 	
