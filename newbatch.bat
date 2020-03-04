@@ -1,4 +1,4 @@
 @ECHO OFF
+mkdir C:\JavaL\sapient\testdi2
 ECHO Congratulations! Your first batch file executed successfully.
-mkdir C:\JavaL\sapient\testdir
 PAUSE 
